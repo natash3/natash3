@@ -3,6 +3,6 @@
 
 ### Me elegi por la carrera de software porque a mi desde niña me intereso mucho la tecnologia, desde jugar con telefonos de juguete asta tener una empresa donde soy la jefa y pues esos sueños que tengo espero poder llegar alcanzarlo, en lo que llevo de carrera eh aprendido programas como; Pseint, scratch, Videopad, StarUML, y actualmente estoy aprendido a crear paginas en Visual Studio Code donde estoy empezando a hacer paginas con Html y Css.
 
-### Mis pasatiempos son dormir, bailar, hacer mi tareas, dormir, comer, dormir y dormir😜
+### Mis pasatiempos son dormir, bailar, hacer mi tareas, dormir, comer, dormir y dormir😜>3
 
-### Espero aprovechar y apreder más sobre la tecnologia, hacer nuevos amigos, llevarme bien con mis profesores, queda mucho por recorrer pero pase lo que pase no me rendire
+### Espero aprovechar y apreder más sobre la tecnologia, hacer nuevos amigos, llevarme bien con mis profesores, queda mucho por recorrer pero pase lo que pase no me rendire >3
